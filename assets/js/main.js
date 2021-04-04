@@ -34,7 +34,7 @@
 			.panel({
 				target: $body,
 				visibleClass: 'is-menu-visible',
-				delay: 10,
+				delay: 3,
 				hideOnClick: true,
 				hideOnSwipe: true,
 				resetScroll: true,
