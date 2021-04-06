@@ -890,7 +890,7 @@ table.alt tbody tr td {
   .testimonials > div > :last-child {
     margin-bottom: 0; }
   span.sublittel {font-size: 0.7rem;
-  padding: 0 0.6rem;}
+  padding: 0;}
   @media screen and (max-width: 980px) {
     .testimonials > * {
       width: 50%; }
